@@ -10,7 +10,7 @@
 * Overview of the CSS styling used in the project
 * Dynamically adding blur effects to the project with JavaScript
 * **30-3(1*3)** if user write one character it get multiplied with three and then it will subsctract by 30 in passwors section
-* if user write 10 character/digit in field it multiflies with *[ 10*3 ] form = 30-30(10*3)=0* then picture get in cleared form.
+* **if user write 10 character/digit in field it multiflies with [ 10*3 ] form = 30-30(10*3)=0** then picture get in cleared form.
 
 * Update on the JavaScript and React in the project
 * Introduction to keyboard events and callback functions
